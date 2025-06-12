@@ -1,4 +1,4 @@
-# Calculator.py
+# Calculator.python
 def calculator():
     print("Simple Calculator")
     print("Select Operation:")
